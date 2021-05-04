@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Demo/WebViewQRcode.unity
     guid: f7d83b8f5f02a3844bde09ee548ca893
-  - enabled: 1
-    path: Assets/Demo/WebView.unity
-    guid: f41ceb8b1f37b7d45bc8de1bee357b56
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
